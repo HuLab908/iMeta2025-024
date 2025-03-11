@@ -4,7 +4,7 @@ Scripts for statistics and plotting figures in "The impact of school heavy metal
 
 /Data and Analysis # metadata, OTU table, taxonomy files, group, heavy metal data, and analysis script.
 
-/figure1-2 # raw data and Rmarkdown scripts
+/Figure1-2 # raw data and Rmarkdown scripts
 
 /Table # Supplementary table
 
